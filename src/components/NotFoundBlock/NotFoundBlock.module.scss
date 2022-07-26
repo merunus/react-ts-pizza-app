@@ -1,0 +1,18 @@
+.root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 100px;
+
+  h1 {
+    font-size: 3.5em;
+    span {
+      color: rgb(222, 119, 64);
+    }
+  }
+  p {
+    font-size: 1.5em;
+    color: rgb(92, 92, 92);
+  }
+}
