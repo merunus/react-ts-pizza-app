@@ -14,7 +14,7 @@ const CartEmpty: React.FC = () => {
         Please go back and fill your cart with more products!
       </p>
       <img className="cartEmptyImg" src={cartEmptyImg} alt="Empty cart" />
-      <Link to="/react-pizza-app" className="button button--black" >
+      <Link to="/react-ts-pizza-app" className="button button--black" >
         <span>Go back</span>
       </Link>
     </div>

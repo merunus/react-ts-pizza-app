@@ -13,7 +13,7 @@ const App = () => {
       <Header />
       <div className="content">
         <Routes>
-          <Route path="/react-pizza-app" element={<Home />} />
+          <Route path="/react-ts-pizza-app" element={<Home />} />
           <Route path="*" element={<Error />} />
           <Route path="/cart" element={<Cart />} />
         </Routes>

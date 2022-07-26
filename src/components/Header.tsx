@@ -25,7 +25,7 @@ const Header = () => {
   return (
     <div className="header">
       <div className="container">
-        <Link to="/react-pizza-app" className="header__logo">
+        <Link to="/react-ts-pizza-app" className="header__logo">
           <img width="38" src={logoSvg} alt="Pizza logo" />
           <div>
             <div>
